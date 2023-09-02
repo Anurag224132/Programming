@@ -1,0 +1,1 @@
+//create a structure type 'person' with name,salary and age as its attributes. Declare and initilise 2 variables for this .Print the name of first person and age of the other.

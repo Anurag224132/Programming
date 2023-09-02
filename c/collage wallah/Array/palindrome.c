@@ -1,0 +1,1 @@
+// If an array arr contains n elements , then check if the given array is a palindrome or not.
